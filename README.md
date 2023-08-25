@@ -11,6 +11,7 @@ To check out what I am currently printing, [click here](https://github.com/users
 ## Printer
 
 Ender 3 v2 (with considerable modification)
+![20230824_205337](https://github.com/Vlek/3D_Printing/assets/15008772/31720c36-4fd2-4187-a9ad-db862a28d75a)
 
 ### Mods:
 - Sprite Pro Extruder
