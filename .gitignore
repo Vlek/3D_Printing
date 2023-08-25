@@ -1,0 +1,10 @@
+# ignoring everything
+*
+!*/
+
+# Add each folder or file path that should be whitelisted.
+!.gitignore
+
+# And finally files we care about
+!printer.cfg
+!macros/**
